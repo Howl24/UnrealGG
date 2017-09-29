@@ -2251,7 +2251,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFezVVltXblanM="
 							},
-							"name": "Port3",
+							"name": "P",
 							"ownedElements": [
 								{
 									"_type": "UMLDependency",
@@ -2299,7 +2299,6 @@
 							"visibility": "public",
 							"isStatic": false,
 							"isLeaf": false,
-							"type": "",
 							"isReadOnly": false,
 							"isOrdered": false,
 							"isUnique": false,
@@ -3255,7 +3254,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "+Port3",
+											"text": "+P",
 											"horizontalAlignment": 0,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -4004,7 +4003,7 @@
 									"alpha": 2.356194490192345,
 									"distance": 20,
 									"underline": false,
-									"text": "Port3",
+									"text": "P",
 									"horizontalAlignment": 2,
 									"verticalAlignment": 5,
 									"wordWrap": false
